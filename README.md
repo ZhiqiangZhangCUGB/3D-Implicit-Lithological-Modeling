@@ -73,8 +73,4 @@ Geophysical attributes are recommended to be standardized or normalized before m
 Missing values, outliers, and duplicated sampling points should be checked and processed before training.
 Recommended Data File Format
 
-It is recommended to store the data in .csv, .dat, or .txt format, for example:
-
-data.csv
-mapped_s1_data.dat
-lithology_samples.txt
+It is recommended to store the data in .csv, .dat, or .txt format
